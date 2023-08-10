@@ -1,0 +1,65 @@
+***************************************************************************
+*        __          PROGRAMMED BY       : Jinyoung Ko, Nicole Montecillo
+*        \_}                             : Augusto Cabrejos, Andrew Gadbois
+*       .-./--.      STUDENT ID          : 589855, 2
+*     /# ^^     \                        : 3, 4
+*    |           |   CLASS               : CS1C
+*     \         /    SECTION             : TTH 12:30-4:20PM
+*      \       /     CLASS PROJECT #1    : Bulk Club
+*       `"`"`"`    
+*     TEAM APPLE
+***************************************************************************
+
+MEMBER NAME          MEMBER TYPE     MEMBER #     TOTAL SPENT EXPIRATION DATE   REBATE
+-------------------- --------------- ----------  ------------ ----------------- -----
+Penn Irving          Preferred       34         $        0.00 03/21/2015         0.06
+Pablo Picasso        Preferred       77777      $        0.00 11/15/2015         0.06
+
+MEMBER NAME          MEMBER TYPE     MEMBER #     TOTAL SPENT EXPIRATION DATE   REBATE
+-------------------- --------------- ----------  ------------ ----------------- -----
+Penn Irving          Preferred       34         $        0.00 03/21/2015         0.06
+Sally Shopper        Basic           12345      $        0.00 11/01/2015        
+Betty Buysalot       Preferred       12899      $        0.00 01/25/2015         0.06
+Benjamin Business    Basic           16161      $        0.00 11/20/2015        
+Sam Single           Preferred       31311      $        0.00 12/05/2015         0.06
+Linda Livesalone     Basic           35647      $        0.00 12/15/2015        
+Sue Shoparound       Preferred       56723      $        0.00 03/21/2015         0.06
+Tasha the Cat        Basic           61616      $        0.00 03/20/2015        
+Fred Frugal          Preferred       67899      $        0.00 12/15/2015         0.06
+Vern Video           Preferred       77777      $        0.00 11/15/2015         0.06
+Pablo Picasso        Preferred       77777      $        0.00 11/15/2015         0.06
+Larry Largefamily    Basic           88888      $        0.00 02/01/2015        
+
+
+WELCOME TO BULK CLUB
+MAIN MENU
+1 - Display List of Members
+2 - Display List of Purchases
+3 - Add member
+4 - Add Purchase
+5 - Check for expiring members
+6 - Sales Report: of a specific day
+0 - EXIT
+Please enter a command: 6
+
+Enter Expiration Date (i.e. MM/DD/YYYY): 02/03/2015
+SALE DATE    MEMBER#   ITEM PURCHASED                  PRICE      QTY     
+----------   -------   -----------------------------   --------   ---        
+02/03/2015   12345     1 gallon milk                   $   2.49    15
+02/03/2015   12345     Assorted Muffins                $   5.89     1
+02/03/2015   88888     Home On The Range               $  19.98     1
+02/03/2015   77777     Disney DVD Collection           $  49.95     1
+02/03/2015   88888     A Bug's Life                    $   9.95     1
+02/03/2015   77777     The Princess Bride              $  17.75    16
+02/03/2015   61616     All Laundry Detergent           $   7.99    22
+02/03/2015   35647     Pringles                        $   6.99     8
+WELCOME TO BULK CLUB
+MAIN MENU
+1 - Display List of Members
+2 - Display List of Purchases
+3 - Add member
+4 - Add Purchase
+5 - Check for expiring members
+6 - Sales Report: of a specific day
+0 - EXIT
+Please enter a command: 

@@ -1,0 +1,40 @@
+Jinyoung Ko
+123456
+Basic
+11/07/2015
+Paulo Coelho
+234
+DfdafType
+12/15/2015
+Haruki Murakami
+!+
+Preferred
+01/25/2015
+Vito Acconci
+2342
+3
+02/01/2015
+Julian Opie
+-23
+Basic
+12/15/2015
+Vincent Van Gogh
+98767678
+Preferred
+12/05/2015
+Pablo Picasso
+77797
+Preferred
+11/15/2015
+Pablo Neruda
+1
+Basic
+1120/2015
+Robert Cumming
+61616
+Basic
+A/20/2015
+Penn Irving
+34
+Preferred
+03/21/2015

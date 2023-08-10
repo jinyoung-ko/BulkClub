@@ -1,0 +1,161 @@
+***************************************************************************
+*        __          PROGRAMMED BY       : Jinyoung Ko, Nicole Montecillo
+*        \_}                             : Augusto Cabrejos, Andrew Gadbois
+*       .-./--.      STUDENT ID          : 589855, 2
+*     /# ^^     \                        : 3, 4
+*    |           |   CLASS               : CS1C
+*     \         /    SECTION             : TTH 12:30-4:20PM
+*      \       /     CLASS PROJECT #1    : Bulk Club
+*       `"`"`"`    
+*     TEAM APPLE
+***************************************************************************
+
+Penn Irving            Preferred         34           $        0.00   03/21/2015      0.06
+Pablo Picasso          Preferred         77777        $        0.00   11/15/2015      0.06
+
+Penn Irving            Preferred         34           $        0.00   03/21/2015      0.06
+Sally Shopper          Basic             12345        $        0.00   11/01/2015     
+Betty Buysalot         Preferred         12899        $        0.00   01/25/2015      0.06
+Benjamin Business      Basic             16161        $        0.00   11/20/2015     
+Sam Single             Preferred         31311        $        0.00   12/05/2015      0.06
+Linda Livesalone       Basic             35647        $        0.00   12/15/2015     
+Sue Shoparound         Preferred         56723        $        0.00   03/21/2015      0.06
+Tasha the Cat          Basic             61616        $        0.00   03/20/2015     
+Fred Frugal            Preferred         67899        $        0.00   12/15/2015      0.06
+Vern Video             Preferred         77777        $        0.00   11/15/2015      0.06
+Pablo Picasso          Preferred         77777        $        0.00   11/15/2015      0.06
+Larry Largefamily      Basic             88888        $        0.00   02/01/2015     
+
+
+WELCOME TO BULK CLUB
+MAIN MENU
+1 - Display List of Members
+2 - Display List of Purchases
+3 - Add member
+4 - Check for expiring members
+0 - EXIT
+Please enter a command: 1
+
+LIST OF MEMBERS:
+Penn Irving            Preferred         34           $        0.00   03/21/2015      0.06
+Sally Shopper          Basic             12345        $        0.00   11/01/2015     
+Betty Buysalot         Preferred         12899        $        0.00   01/25/2015      0.06
+Benjamin Business      Basic             16161        $        0.00   11/20/2015     
+Sam Single             Preferred         31311        $        0.00   12/05/2015      0.06
+Linda Livesalone       Basic             35647        $        0.00   12/15/2015     
+Sue Shoparound         Preferred         56723        $        0.00   03/21/2015      0.06
+Tasha the Cat          Basic             61616        $        0.00   03/20/2015     
+Fred Frugal            Preferred         67899        $        0.00   12/15/2015      0.06
+Vern Video             Preferred         77777        $        0.00   11/15/2015      0.06
+Pablo Picasso          Preferred         77777        $        0.00   11/15/2015      0.06
+Larry Largefamily      Basic             88888        $        0.00   02/01/2015     
+
+WELCOME TO BULK CLUB
+MAIN MENU
+1 - Display List of Members
+2 - Display List of Purchases
+3 - Add member
+4 - Check for expiring members
+0 - EXIT
+Please enter a command: 2
+
+LIST OF PURCHASES:
+SALE DATE    MEMBER#   ITEM PURCHASED                  PRICE      QTY     
+----------   -------   -----------------------------   --------   ---        
+02/01/2015   12345     1 gallon milk                   $   5.49    88
+02/01/2015   67899     Rye Bread                       $   4.79    90
+02/01/2015   12899     Ground Beef                     $   6.85     1
+02/01/2015   12899     Pork Tenderloin                 $  17.25     2
+02/01/2015   12899     Shrek 2                         $  19.95     1
+02/01/2015   12345     Seinfeld Collection             $  39.95    50
+02/01/2015   67899     The Alamo                       $  19.95     6
+02/01/2015   67899     Most Basic DVD Player           $  59.99     1
+02/01/2015   12345     EPSON Printer                   $  59.99    20
+02/01/2015   88888     EPSON Printer Cart.             $  32.50     5
+02/01/2015   67899     Instant Coffee                  $   6.75     5
+02/01/2015   12899     Paper Shredder                  $ 199.99     1
+02/01/2015   56723     Envelopes                       $   2.99     5
+02/01/2015   56723     Envelopes                       $   2.99     5
+02/02/2015   61616     1 gallon milk                   $   2.49     5
+02/02/2015   77777     Wonder Bread                    $   1.29     6
+02/02/2015   77777     1.5 dozen eggs                  $   1.29     3
+02/02/2015   35647     Hamburger                       $   7.25     1
+02/02/2015   31311     The Bourne Supremacy            $  19.95     1
+02/02/2015   12121     Toilet Paper                    $  11.75     1
+02/02/2015   67899     Ponds Lotion                    $   5.79     1
+02/02/2015   61616     VCR/DVD Player                  $  89.99     1
+02/02/2015   61616     Levi 501's                      $  21.50     4
+02/02/2015   12345     Farberware Cookware Set         $ 189.99    20
+02/02/2015   61616     Coffee Creamer                  $   4.75     5
+02/02/2015   12345     Legal Pads                      $   6.25    10
+02/02/2015   12345     Legal Pads                      $   6.25    10
+02/03/2015   12345     1 gallon milk                   $   2.49    15
+02/03/2015   12345     Assorted Muffins                $   5.89     1
+02/03/2015   88888     Home On The Range               $  19.98     1
+02/03/2015   77777     Disney DVD Collection           $  49.95     1
+02/03/2015   88888     A Bug's Life                    $   9.95     1
+02/03/2015   77777     The Princess Bride              $  17.75    16
+02/03/2015   61616     All Laundry Detergent           $   7.99    22
+02/03/2015   35647     Pringles                        $   6.99     8
+02/03/2015   12121     Levi 501's                      $  21.50    10
+02/03/2015   12345     diet Coke                       $   6.79    26
+02/03/2015   12345     diet Coke                       $   6.79    26
+02/04/2015   12345     1 gallon milk                   $   2.49     3
+02/04/2015   12345     Assorted Muffins                $   5.89     4
+02/04/2015   77777     Rack of Lamb                    $  14.79     4
+02/04/2015   88888     Foster Farms Whole Chicken      $  10.75     1
+02/04/2015   61616     Spiderman 2                     $  19.95     1
+02/04/2015   61616     While You Were Sleeping         $  17.75     1
+02/04/2015   12345     All Laundry Detergent           $   7.99     1
+02/04/2015   67899     Bkfst Cereal Variety Pack       $   7.29     4
+02/04/2015   12345     Disney DVD Collection 2         $  59.99     1
+02/04/2015   12899     Pepsi                           $   6.75     8
+02/04/2015   61616     Coke                            $   6.79     7
+02/04/2015   12345     Assorted Muffins                $   5.89    10
+02/04/2015   12345     Assorted Muffins                $   5.89    10
+02/06/2015   77777     Crest Toothpaste                $   7.59     6
+02/06/2015   77777     Grosse Pointe Blank DVD         $  16.99     5
+02/06/2015   88888     Serendipity                     $  16.95     4
+02/06/2015   12345     Runaway Jury                    $  18.95     2
+02/06/2015   61616     Pork Tenderloin                 $  13.75    88
+02/06/2015   61616     Brie (Made in U.S.)             $   7.25     2
+02/06/2015   12345     Fresh Mozzarella                $   8.65     2
+02/06/2015   12345     Vine Ripe Tomatoes              $   6.99     2
+02/06/2015   77777     Roasted Garlic Bread            $   7.29     2
+02/06/2015   61616     Disney DVD Collection 2         $  59.99     1
+02/06/2015   12345     Sprite                          $   6.75    20
+02/06/2015   77777     Coke                            $   6.79     2
+02/06/2015   12345     Propel Fitness Water            $  12.50     3
+02/06/2015   12345     Propel Fitness Water            $  12.50     3
+
+WELCOME TO BULK CLUB
+MAIN MENU
+1 - Display List of Members
+2 - Display List of Purchases
+3 - Add member
+4 - Check for expiring members
+0 - EXIT
+Please enter a command: 4
+
+CHECK FOR EXPIRING MEMBERSHIPS
+Enter expiration month to search: 12
+Enter expiration year to search: 2015
+
+The following memberships expiring on 12/2015 were found:
+
+MEMBER NAME         MEMBER#   MEMBER TYPE    EXP DATE    DUES  
+------------------- --------- -------------- ----------- ------
+Sam Single          31311     Preferred      12/05/2015  $95.00 
+Linda Livesalone    35647     Basic          12/15/2015  $55.00 
+Fred Frugal         67899     Preferred      12/15/2015  $95.00 
+
+WELCOME TO BULK CLUB
+MAIN MENU
+1 - Display List of Members
+2 - Display List of Purchases
+3 - Add member
+4 - Check for expiring members
+0 - EXIT
+Please enter a command: 0
+
+PROGRAM ENDED
